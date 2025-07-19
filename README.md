@@ -1,1 +1,3 @@
 # Technical-Writing
+- Latex code was made by google ai studio , Chatgpt, Deepseek with research paper screenshot given..
+- Presentation was made by gamma...
